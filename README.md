@@ -1,3 +1,5 @@
+
+#一个能够让用户直接通过平台支付租金而无需再使用支票或银行转账的方式的平台
 # FullStack
 
 This is a platform I began building for a client. After he signed and I started working he decided to pivot and not pay me. Sometimes you get screwed in business but at least now I have a cool boilerplate to give away.
